@@ -1,0 +1,130 @@
+.firstpart{
+    background-color: rgb(36,37,37);
+    color: #fff;
+    width: 760px;
+    height: 755px;
+    padding: 120px;
+}
+
+.header{
+    margin-top: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: rgb(199,192,181);
+}
+.subheader{
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 14px;
+    color: gray;
+}
+
+.form-class{
+    margin-top: 40px;
+}
+
+.mybutton{
+    border-radius: 8px;
+    height: 50px;
+    background-color: #176fff;
+    border: none;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+    margin: 20px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.pass{
+    border-radius: 8px;
+    height: 50px;
+    background-color: rgb(41,37,37);
+    border: none;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+    margin: 20px;
+    color: #176fff;
+    font-size: 20px;
+}
+
+.pass:hover{
+    border-radius: 8px;
+    height: 50px;
+    background-color: rgb(33, 33, 33);
+    border: none;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+    margin: 20px;
+    color: #176fff;
+    font-size: 20px;
+}
+
+input{
+    background-color: rgba(70, 90, 126, 0.4) !important;
+    color: fieldtext !important;
+    writing-mode: horizontal-tb !important;
+    letter-spacing: normal;
+    text-rendering: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    padding: 1px 2px;
+    border: none !important;
+}
+
+
+.secondpart{
+    background-color: rgb(70, 72, 72);
+    color: #fff;
+    width: 760px;
+    height: 755px;
+    padding: 120px;
+
+}
+
+.gomy{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+}
+
+.gomy2{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+}
+
+.img{
+    border-radius: 8px;
+    border: none;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+    margin: 50px;
+}
+
+.p{
+    margin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        : 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(250, 250, 250);
+
+}
